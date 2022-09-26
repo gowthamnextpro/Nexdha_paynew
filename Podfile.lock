@@ -1,0 +1,104 @@
+PODS:
+  - Alamofire (5.6.2)
+  - BulletinBoard (5.0.0)
+  - CashfreeAnalyticsSDK (1.0.15):
+    - CFNetworkSDK (~> 1.0)
+  - CashfreePG (1.1.3):
+    - CashfreePGUISDK (~> 1.1.5)
+  - CashfreePGCoreSDK (1.1.4):
+    - CashfreeAnalyticsSDK (~> 1.0.15)
+  - CashfreePGUISDK (1.1.5):
+    - CashfreePGCoreSDK (~> 1.1.4)
+  - CFNetworkSDK (1.0.13)
+  - DTGradientButton (0.1.3)
+  - DynamicBottomSheet (1.0.2):
+    - RxCocoa (~> 6.0)
+    - RxGesture (~> 4.0)
+    - RxSwift (~> 6.0)
+    - SnapKit (~> 5.0)
+    - Then (~> 2.0)
+  - lottie-ios (3.4.3)
+  - MBCircularProgressBar (0.3.5)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxGesture (4.0.4):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SnapKit (5.6.0)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftyJSON (5.0.1)
+  - Then (2.7.0)
+  - TTGSnackbar (1.11.1)
+  - WXImageCompress (0.1.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - BulletinBoard
+  - CashfreePG (~> 1.1.1)
+  - DTGradientButton
+  - DynamicBottomSheet
+  - lottie-ios
+  - MBCircularProgressBar
+  - Socket.IO-Client-Swift (~> 15.2.0)
+  - SwiftyJSON (>= 2.2)
+  - TTGSnackbar
+  - WXImageCompress (~> 0.1.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BulletinBoard
+    - CashfreeAnalyticsSDK
+    - CashfreePG
+    - CashfreePGCoreSDK
+    - CashfreePGUISDK
+    - CFNetworkSDK
+    - DTGradientButton
+    - DynamicBottomSheet
+    - lottie-ios
+    - MBCircularProgressBar
+    - RxCocoa
+    - RxGesture
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftyJSON
+    - Then
+    - TTGSnackbar
+    - WXImageCompress
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  BulletinBoard: dba77053c2a7b64953f63073f7534165af2edd21
+  CashfreeAnalyticsSDK: 10331d08cfe8d40324a2feb3844a5672a0a8bc9e
+  CashfreePG: e35583075c568b2e3278079642b716145ea07e40
+  CashfreePGCoreSDK: 6b32974224c70d3bc67f96079983a76cd3272d35
+  CashfreePGUISDK: 9ebf844ee95a78c87624ae4691292021b11349ac
+  CFNetworkSDK: 20bbc619e9dfb8e257a96bbdbc884bd3e8490e78
+  DTGradientButton: 6f0f696cd433255d226c05e4ab047d991d13d4ef
+  DynamicBottomSheet: b11ead81bf8ee494b26cbd16ff2312313e90d9e3
+  lottie-ios: 9ae750cdc7820fecbd3c2f0cfc493038208fcdc4
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxGesture: f3efb47ed2d26a8082f7b660d4a59970e275a7f8
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  TTGSnackbar: fea91c62637b5662f808a4c3b55f7631cb7e1ef7
+  WXImageCompress: 86c7a4d028c7fc9c74181468c318a9ec688fcdac
+
+PODFILE CHECKSUM: 0f2a443555a22b4a29fea336c63839425b0917b2
+
+COCOAPODS: 1.11.3

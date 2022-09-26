@@ -1,0 +1,6 @@
+framework module DynamicBottomSheet {
+  umbrella header "DynamicBottomSheet-umbrella.h"
+
+  export *
+  module * { export * }
+}
