@@ -8,13 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		1578D1473B619D95D5B0E268 /* Pods_NexdhaPay.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AC629CBBCBCF37EA35EA22D7 /* Pods_NexdhaPay.framework */; };
-		200E57ED2849EFC100765647 /* Dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200E57EC2849EFC100765647 /* Dashboard.swift */; };
-		200E57EF284A006E00765647 /* scan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200E57EE284A006E00765647 /* scan.swift */; };
-		200E57F1284A1B6400765647 /* upi_pay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200E57F0284A1B6400765647 /* upi_pay.swift */; };
-		2015B5D42887D8030049F113 /* Student_kyc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2015B5D32887D8030049F113 /* Student_kyc.swift */; };
-		2015B5D6288806440049F113 /* onboarding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2015B5D5288806440049F113 /* onboarding.swift */; };
-		2029AC9128855E3F0060B79F /* Kyc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2029AC9028855E3F0060B79F /* Kyc.swift */; };
-		2038B04228912F09008E8702 /* feedback.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2038B04128912F09008E8702 /* feedback.swift */; };
 		2042C995286D72EE00C4978F /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2042C983286D72EE00C4978F /* Montserrat-LightItalic.ttf */; };
 		2042C996286D72EE00C4978F /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2042C984286D72EE00C4978F /* Montserrat-Medium.ttf */; };
 		2042C997286D72EE00C4978F /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2042C985286D72EE00C4978F /* Montserrat-BoldItalic.ttf */; };
@@ -33,49 +26,9 @@
 		2042C9A4286D72EE00C4978F /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2042C992286D72EE00C4978F /* Montserrat-Italic.ttf */; };
 		2042C9A5286D72EE00C4978F /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2042C993286D72EE00C4978F /* Montserrat-SemiBoldItalic.ttf */; };
 		2042C9A6286D72EE00C4978F /* Montserrat-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2042C994286D72EE00C4978F /* Montserrat-ExtraBoldItalic.ttf */; };
-		20437BB828642D4100C0AF35 /* parentsignuponly.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20437BB728642D4100C0AF35 /* parentsignuponly.swift */; };
-		2045A45F287FE3E900D6EE72 /* parent_history.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2045A45E287FE3E900D6EE72 /* parent_history.swift */; };
-		2045A46128802D2900D6EE72 /* split_page.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2045A46028802D2900D6EE72 /* split_page.swift */; };
-		204AEBF628851FD5003030C7 /* Pg.swift in Sources */ = {isa = PBXBuildFile; fileRef = 204AEBF528851FD5003030C7 /* Pg.swift */; };
-		204EDCE22865CC430024D934 /* BlogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 204EDCE12865CC430024D934 /* BlogViewController.swift */; };
-		2055A28228619C8100AF5EDB /* add_student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055A28128619C8100AF5EDB /* add_student.swift */; };
-		2055A2862861B8B100AF5EDB /* view_of_juniors.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2055A2852861B8B100AF5EDB /* view_of_juniors.swift */; };
-		20567E84285460A5005C0206 /* Modalviewcontroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20567E83285460A5005C0206 /* Modalviewcontroller.swift */; };
-		205B1557285C8D2200894C7C /* parent_dashboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205B1556285C8D2200894C7C /* parent_dashboard.swift */; };
-		205EF5F92860A0AE001D5708 /* settings_parent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205EF5F82860A0AE001D5708 /* settings_parent.swift */; };
-		209FC6202848D4BD004320A3 /* Home screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209FC61A2848D4BD004320A3 /* Home screen.swift */; };
-		209FC6212848D4BD004320A3 /* otp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209FC61B2848D4BD004320A3 /* otp.swift */; };
-		209FC6232848D4BD004320A3 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209FC61D2848D4BD004320A3 /* SwiftUIView.swift */; };
-		209FC6242848D4BD004320A3 /* parent_login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209FC61E2848D4BD004320A3 /* parent_login.swift */; };
-		209FC6252848D4BD004320A3 /* gradientview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209FC61F2848D4BD004320A3 /* gradientview.swift */; };
-		20A21F1D2851D68E004383EF /* settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A21F1C2851D68E004383EF /* settings.swift */; };
-		20A21F1F28521008004383EF /* enterupi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A21F1E28521008004383EF /* enterupi.swift */; };
-		20ABC6142848CC4900082A72 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC6132848CC4900082A72 /* AppDelegate.swift */; };
-		20ABC6162848CC4900082A72 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC6152848CC4900082A72 /* SceneDelegate.swift */; };
-		20ABC6182848CC4900082A72 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC6172848CC4900082A72 /* ViewController.swift */; };
-		20ABC61B2848CC4900082A72 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20ABC6192848CC4900082A72 /* Main.storyboard */; };
-		20ABC61E2848CC4900082A72 /* nbpl.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC61C2848CC4900082A72 /* nbpl.xcdatamodeld */; };
-		20ABC6202848CC4A00082A72 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20ABC61F2848CC4A00082A72 /* Assets.xcassets */; };
-		20ABC6232848CC4A00082A72 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 20ABC6212848CC4A00082A72 /* LaunchScreen.storyboard */; };
 		20ABC62E2848CC4A00082A72 /* nbplTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC62D2848CC4A00082A72 /* nbplTests.swift */; };
 		20ABC6382848CC4A00082A72 /* nbplUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC6372848CC4A00082A72 /* nbplUITests.swift */; };
 		20ABC63A2848CC4A00082A72 /* nbplUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20ABC6392848CC4A00082A72 /* nbplUITestsLaunchTests.swift */; };
-		20B85DD528DD768D00047E52 /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B85DD428DD768D00047E52 /* Timer.swift */; };
-		20C7B6D428585B5800DE321E /* webview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C7B6D328585B5800DE321E /* webview.swift */; };
-		20C7B6DF285860DF00DE321E /* pending_lottie.json in Resources */ = {isa = PBXBuildFile; fileRef = 20C7B6DC285860DF00DE321E /* pending_lottie.json */; };
-		20C7B6E0285860DF00DE321E /* failed_lottie.json in Resources */ = {isa = PBXBuildFile; fileRef = 20C7B6DD285860DF00DE321E /* failed_lottie.json */; };
-		20C7B6E1285860DF00DE321E /* confetti_with_success.json in Resources */ = {isa = PBXBuildFile; fileRef = 20C7B6DE285860DF00DE321E /* confetti_with_success.json */; };
-		20C7B6E32858616500DE321E /* loading_lottie.json in Resources */ = {isa = PBXBuildFile; fileRef = 20C7B6E22858616500DE321E /* loading_lottie.json */; };
-		20C7B6E52858A0F700DE321E /* pending_lottie1.json in Resources */ = {isa = PBXBuildFile; fileRef = 20C7B6E42858A0F700DE321E /* pending_lottie1.json */; };
-		20C93B41288EAAC60028575F /* terms_view.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C93B40288EAAC60028575F /* terms_view.swift */; };
-		20C93B43288EBA050028575F /* no_bills.json in Resources */ = {isa = PBXBuildFile; fileRef = 20C93B42288EBA050028575F /* no_bills.json */; };
-		20D0CD11284E157900D767F3 /* transaction_history.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D0CD10284E157900D767F3 /* transaction_history.swift */; };
-		20D680F428D8728800455BBE /* student_Dashboardnew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D680F328D8728800455BBE /* student_Dashboardnew.swift */; };
-		20D952C828D9B60400A62761 /* CircularProgressBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D952C728D9B60400A62761 /* CircularProgressBarView.swift */; };
-		20E0951728730A6900BF2F17 /* testui.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E0951628730A6900BF2F17 /* testui.swift */; };
-		20EA044028755EFE006141A4 /* loading_light_blue_lottie.json in Resources */ = {isa = PBXBuildFile; fileRef = 20EA043F28755EFE006141A4 /* loading_light_blue_lottie.json */; };
-		20F8537728521AEC0011A97D /* MyStackViewBottomSheetViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20F8537628521AEC0011A97D /* MyStackViewBottomSheetViewController.swift */; };
-		20FDFE53287D48950044CD1A /* qr_lottie.json in Resources */ = {isa = PBXBuildFile; fileRef = 20FDFE52287D48950044CD1A /* qr_lottie.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -98,14 +51,7 @@
 /* Begin PBXFileReference section */
 		1168FE6962F4D823FBE3A860 /* Pods-NexdhaPay.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NexdhaPay.debug.xcconfig"; path = "Target Support Files/Pods-NexdhaPay/Pods-NexdhaPay.debug.xcconfig"; sourceTree = "<group>"; };
 		1B942F251A74AC8C705E4443 /* Pods-nbpl-nbplUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nbpl-nbplUITests.release.xcconfig"; path = "Target Support Files/Pods-nbpl-nbplUITests/Pods-nbpl-nbplUITests.release.xcconfig"; sourceTree = "<group>"; };
-		200E57EC2849EFC100765647 /* Dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dashboard.swift; sourceTree = "<group>"; };
-		200E57EE284A006E00765647 /* scan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scan.swift; sourceTree = "<group>"; };
-		200E57F0284A1B6400765647 /* upi_pay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = upi_pay.swift; sourceTree = "<group>"; };
-		2015B5D32887D8030049F113 /* Student_kyc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student_kyc.swift; sourceTree = "<group>"; };
-		2015B5D5288806440049F113 /* onboarding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onboarding.swift; sourceTree = "<group>"; };
-		2029AC9028855E3F0060B79F /* Kyc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kyc.swift; sourceTree = "<group>"; };
 		2031F3419AF4F3552BA4A2CB /* Pods-nbpl.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nbpl.debug.xcconfig"; path = "Target Support Files/Pods-nbpl/Pods-nbpl.debug.xcconfig"; sourceTree = "<group>"; };
-		2038B04128912F09008E8702 /* feedback.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = feedback.swift; sourceTree = "<group>"; };
 		2042C983286D72EE00C4978F /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
 		2042C984286D72EE00C4978F /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
 		2042C985286D72EE00C4978F /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
@@ -124,53 +70,12 @@
 		2042C992286D72EE00C4978F /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Italic.ttf"; sourceTree = "<group>"; };
 		2042C993286D72EE00C4978F /* Montserrat-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		2042C994286D72EE00C4978F /* Montserrat-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
-		20437BB728642D4100C0AF35 /* parentsignuponly.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parentsignuponly.swift; sourceTree = "<group>"; };
-		2045A45E287FE3E900D6EE72 /* parent_history.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = parent_history.swift; sourceTree = "<group>"; };
-		2045A46028802D2900D6EE72 /* split_page.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = split_page.swift; sourceTree = "<group>"; };
-		204AEBF528851FD5003030C7 /* Pg.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pg.swift; sourceTree = "<group>"; };
-		204EDCE12865CC430024D934 /* BlogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlogViewController.swift; sourceTree = "<group>"; };
-		2055A28128619C8100AF5EDB /* add_student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = add_student.swift; sourceTree = "<group>"; };
-		2055A2852861B8B100AF5EDB /* view_of_juniors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = view_of_juniors.swift; sourceTree = "<group>"; };
-		20567E83285460A5005C0206 /* Modalviewcontroller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Modalviewcontroller.swift; sourceTree = "<group>"; };
-		205B1556285C8D2200894C7C /* parent_dashboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parent_dashboard.swift; sourceTree = "<group>"; };
-		205EF5F82860A0AE001D5708 /* settings_parent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settings_parent.swift; sourceTree = "<group>"; };
-		209FC61A2848D4BD004320A3 /* Home screen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Home screen.swift"; sourceTree = "<group>"; };
-		209FC61B2848D4BD004320A3 /* otp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = otp.swift; sourceTree = "<group>"; };
-		209FC61D2848D4BD004320A3 /* SwiftUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
-		209FC61E2848D4BD004320A3 /* parent_login.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = parent_login.swift; sourceTree = "<group>"; };
-		209FC61F2848D4BD004320A3 /* gradientview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gradientview.swift; sourceTree = "<group>"; };
-		20A21F1C2851D68E004383EF /* settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = settings.swift; sourceTree = "<group>"; };
-		20A21F1E28521008004383EF /* enterupi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = enterupi.swift; sourceTree = "<group>"; };
 		20ABC6102848CC4900082A72 /* NexdhaPay.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NexdhaPay.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		20ABC6132848CC4900082A72 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		20ABC6152848CC4900082A72 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		20ABC6172848CC4900082A72 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		20ABC61A2848CC4900082A72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		20ABC61D2848CC4900082A72 /* nbpl.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = nbpl.xcdatamodel; sourceTree = "<group>"; };
-		20ABC61F2848CC4A00082A72 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		20ABC6222848CC4A00082A72 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		20ABC6242848CC4A00082A72 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		20ABC6292848CC4A00082A72 /* nbplTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nbplTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20ABC62D2848CC4A00082A72 /* nbplTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nbplTests.swift; sourceTree = "<group>"; };
 		20ABC6332848CC4A00082A72 /* nbplUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = nbplUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		20ABC6372848CC4A00082A72 /* nbplUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nbplUITests.swift; sourceTree = "<group>"; };
 		20ABC6392848CC4A00082A72 /* nbplUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = nbplUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		20B85DD428DD768D00047E52 /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
-		20C7B6D328585B5800DE321E /* webview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webview.swift; sourceTree = "<group>"; };
-		20C7B6DC285860DF00DE321E /* pending_lottie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pending_lottie.json; sourceTree = "<group>"; };
-		20C7B6DD285860DF00DE321E /* failed_lottie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = failed_lottie.json; sourceTree = "<group>"; };
-		20C7B6DE285860DF00DE321E /* confetti_with_success.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = confetti_with_success.json; sourceTree = "<group>"; };
-		20C7B6E22858616500DE321E /* loading_lottie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = loading_lottie.json; path = Anim/loading_lottie.json; sourceTree = "<group>"; };
-		20C7B6E42858A0F700DE321E /* pending_lottie1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = pending_lottie1.json; sourceTree = "<group>"; };
-		20C93B40288EAAC60028575F /* terms_view.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = terms_view.swift; sourceTree = "<group>"; };
-		20C93B42288EBA050028575F /* no_bills.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = no_bills.json; sourceTree = "<group>"; };
-		20D0CD10284E157900D767F3 /* transaction_history.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = transaction_history.swift; sourceTree = "<group>"; };
-		20D680F328D8728800455BBE /* student_Dashboardnew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = student_Dashboardnew.swift; sourceTree = "<group>"; };
-		20D952C728D9B60400A62761 /* CircularProgressBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularProgressBarView.swift; sourceTree = "<group>"; };
-		20E0951628730A6900BF2F17 /* testui.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testui.swift; sourceTree = "<group>"; };
-		20EA043F28755EFE006141A4 /* loading_light_blue_lottie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = loading_light_blue_lottie.json; sourceTree = "<group>"; };
-		20F8537628521AEC0011A97D /* MyStackViewBottomSheetViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyStackViewBottomSheetViewController.swift; sourceTree = "<group>"; };
-		20FDFE52287D48950044CD1A /* qr_lottie.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = qr_lottie.json; sourceTree = "<group>"; };
 		4440A4184C747E9A5710923D /* Pods-NexdhaPay.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NexdhaPay.release.xcconfig"; path = "Target Support Files/Pods-NexdhaPay/Pods-NexdhaPay.release.xcconfig"; sourceTree = "<group>"; };
 		85AF941842B88CF6EA217B77 /* Pods-nbpl.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nbpl.release.xcconfig"; path = "Target Support Files/Pods-nbpl/Pods-nbpl.release.xcconfig"; sourceTree = "<group>"; };
 		9BDD63248D5825C8EE233BBD /* Pods-nbpl-nbplUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nbpl-nbplUITests.debug.xcconfig"; path = "Target Support Files/Pods-nbpl-nbplUITests/Pods-nbpl-nbplUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -232,7 +137,6 @@
 			isa = PBXGroup;
 			children = (
 				2042C982286D72EE00C4978F /* Fonts */,
-				20ABC6122848CC4900082A72 /* nbpl */,
 				20ABC62C2848CC4A00082A72 /* nbplTests */,
 				20ABC6362848CC4A00082A72 /* nbplUITests */,
 				20ABC6112848CC4900082A72 /* Products */,
@@ -249,61 +153,6 @@
 				20ABC6332848CC4A00082A72 /* nbplUITests.xctest */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		20ABC6122848CC4900082A72 /* nbpl */ = {
-			isa = PBXGroup;
-			children = (
-				20C93B42288EBA050028575F /* no_bills.json */,
-				20FDFE52287D48950044CD1A /* qr_lottie.json */,
-				20EA043F28755EFE006141A4 /* loading_light_blue_lottie.json */,
-				20C7B6E42858A0F700DE321E /* pending_lottie1.json */,
-				20C7B6DE285860DF00DE321E /* confetti_with_success.json */,
-				20C7B6DD285860DF00DE321E /* failed_lottie.json */,
-				20C7B6DC285860DF00DE321E /* pending_lottie.json */,
-				20C7B6E22858616500DE321E /* loading_lottie.json */,
-				209FC61F2848D4BD004320A3 /* gradientview.swift */,
-				209FC61A2848D4BD004320A3 /* Home screen.swift */,
-				209FC61B2848D4BD004320A3 /* otp.swift */,
-				209FC61E2848D4BD004320A3 /* parent_login.swift */,
-				209FC61D2848D4BD004320A3 /* SwiftUIView.swift */,
-				20ABC6132848CC4900082A72 /* AppDelegate.swift */,
-				20ABC6152848CC4900082A72 /* SceneDelegate.swift */,
-				20ABC6172848CC4900082A72 /* ViewController.swift */,
-				20ABC6192848CC4900082A72 /* Main.storyboard */,
-				20ABC61F2848CC4A00082A72 /* Assets.xcassets */,
-				20ABC6212848CC4A00082A72 /* LaunchScreen.storyboard */,
-				20ABC6242848CC4A00082A72 /* Info.plist */,
-				20ABC61C2848CC4900082A72 /* nbpl.xcdatamodeld */,
-				200E57EC2849EFC100765647 /* Dashboard.swift */,
-				200E57EE284A006E00765647 /* scan.swift */,
-				200E57F0284A1B6400765647 /* upi_pay.swift */,
-				20D0CD10284E157900D767F3 /* transaction_history.swift */,
-				20A21F1C2851D68E004383EF /* settings.swift */,
-				20A21F1E28521008004383EF /* enterupi.swift */,
-				20F8537628521AEC0011A97D /* MyStackViewBottomSheetViewController.swift */,
-				20567E83285460A5005C0206 /* Modalviewcontroller.swift */,
-				20C7B6D328585B5800DE321E /* webview.swift */,
-				205B1556285C8D2200894C7C /* parent_dashboard.swift */,
-				205EF5F82860A0AE001D5708 /* settings_parent.swift */,
-				2055A28128619C8100AF5EDB /* add_student.swift */,
-				2055A2852861B8B100AF5EDB /* view_of_juniors.swift */,
-				20437BB728642D4100C0AF35 /* parentsignuponly.swift */,
-				204EDCE12865CC430024D934 /* BlogViewController.swift */,
-				20E0951628730A6900BF2F17 /* testui.swift */,
-				2045A45E287FE3E900D6EE72 /* parent_history.swift */,
-				2045A46028802D2900D6EE72 /* split_page.swift */,
-				204AEBF528851FD5003030C7 /* Pg.swift */,
-				2029AC9028855E3F0060B79F /* Kyc.swift */,
-				2015B5D32887D8030049F113 /* Student_kyc.swift */,
-				2015B5D5288806440049F113 /* onboarding.swift */,
-				20C93B40288EAAC60028575F /* terms_view.swift */,
-				2038B04128912F09008E8702 /* feedback.swift */,
-				20D680F328D8728800455BBE /* student_Dashboardnew.swift */,
-				20D952C728D9B60400A62761 /* CircularProgressBarView.swift */,
-				20B85DD428DD768D00047E52 /* Timer.swift */,
-			);
-			path = nbpl;
 			sourceTree = "<group>";
 		};
 		20ABC62C2848CC4A00082A72 /* nbplTests */ = {
@@ -451,33 +300,22 @@
 			buildActionMask = 2147483647;
 			files = (
 				2042C998286D72EE00C4978F /* Montserrat-Light.ttf in Resources */,
-				20C7B6DF285860DF00DE321E /* pending_lottie.json in Resources */,
 				2042C9A3286D72EE00C4978F /* Montserrat-Regular.ttf in Resources */,
 				2042C9A4286D72EE00C4978F /* Montserrat-Italic.ttf in Resources */,
-				20ABC6232848CC4A00082A72 /* LaunchScreen.storyboard in Resources */,
 				2042C99A286D72EE00C4978F /* Montserrat-ExtraLight.ttf in Resources */,
-				20EA044028755EFE006141A4 /* loading_light_blue_lottie.json in Resources */,
-				20C7B6E0285860DF00DE321E /* failed_lottie.json in Resources */,
-				20C7B6E52858A0F700DE321E /* pending_lottie1.json in Resources */,
 				2042C9A5286D72EE00C4978F /* Montserrat-SemiBoldItalic.ttf in Resources */,
 				2042C997286D72EE00C4978F /* Montserrat-BoldItalic.ttf in Resources */,
 				2042C9A2286D72EE00C4978F /* Montserrat-Black.ttf in Resources */,
-				20C7B6E32858616500DE321E /* loading_lottie.json in Resources */,
-				20FDFE53287D48950044CD1A /* qr_lottie.json in Resources */,
-				20ABC6202848CC4A00082A72 /* Assets.xcassets in Resources */,
 				2042C99E286D72EE00C4978F /* Montserrat-BlackItalic.ttf in Resources */,
 				2042C99F286D72EE00C4978F /* Montserrat-SemiBold.ttf in Resources */,
 				2042C99D286D72EE00C4978F /* Montserrat-MediumItalic.ttf in Resources */,
 				2042C996286D72EE00C4978F /* Montserrat-Medium.ttf in Resources */,
 				2042C99B286D72EE00C4978F /* Montserrat-Thin.ttf in Resources */,
-				20ABC61B2848CC4900082A72 /* Main.storyboard in Resources */,
 				2042C99C286D72EE00C4978F /* Montserrat-Bold.ttf in Resources */,
 				2042C999286D72EE00C4978F /* Montserrat-ThinItalic.ttf in Resources */,
 				2042C9A0286D72EE00C4978F /* Montserrat-ExtraLightItalic.ttf in Resources */,
-				20C7B6E1285860DF00DE321E /* confetti_with_success.json in Resources */,
 				2042C9A1286D72EE00C4978F /* Montserrat-ExtraBold.ttf in Resources */,
 				2042C995286D72EE00C4978F /* Montserrat-LightItalic.ttf in Resources */,
-				20C93B43288EBA050028575F /* no_bills.json in Resources */,
 				2042C9A6286D72EE00C4978F /* Montserrat-ExtraBoldItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -545,42 +383,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				209FC6202848D4BD004320A3 /* Home screen.swift in Sources */,
-				209FC6212848D4BD004320A3 /* otp.swift in Sources */,
-				200E57ED2849EFC100765647 /* Dashboard.swift in Sources */,
-				20437BB828642D4100C0AF35 /* parentsignuponly.swift in Sources */,
-				2055A28228619C8100AF5EDB /* add_student.swift in Sources */,
-				200E57F1284A1B6400765647 /* upi_pay.swift in Sources */,
-				209FC6232848D4BD004320A3 /* SwiftUIView.swift in Sources */,
-				20A21F1F28521008004383EF /* enterupi.swift in Sources */,
-				2015B5D42887D8030049F113 /* Student_kyc.swift in Sources */,
-				205B1557285C8D2200894C7C /* parent_dashboard.swift in Sources */,
-				20E0951728730A6900BF2F17 /* testui.swift in Sources */,
-				20C7B6D428585B5800DE321E /* webview.swift in Sources */,
-				2045A46128802D2900D6EE72 /* split_page.swift in Sources */,
-				20D0CD11284E157900D767F3 /* transaction_history.swift in Sources */,
-				20D952C828D9B60400A62761 /* CircularProgressBarView.swift in Sources */,
-				20B85DD528DD768D00047E52 /* Timer.swift in Sources */,
-				2015B5D6288806440049F113 /* onboarding.swift in Sources */,
-				20ABC6182848CC4900082A72 /* ViewController.swift in Sources */,
-				2038B04228912F09008E8702 /* feedback.swift in Sources */,
-				20F8537728521AEC0011A97D /* MyStackViewBottomSheetViewController.swift in Sources */,
-				20ABC61E2848CC4900082A72 /* nbpl.xcdatamodeld in Sources */,
-				20ABC6142848CC4900082A72 /* AppDelegate.swift in Sources */,
-				209FC6242848D4BD004320A3 /* parent_login.swift in Sources */,
-				20D680F428D8728800455BBE /* student_Dashboardnew.swift in Sources */,
-				20567E84285460A5005C0206 /* Modalviewcontroller.swift in Sources */,
-				2055A2862861B8B100AF5EDB /* view_of_juniors.swift in Sources */,
-				2045A45F287FE3E900D6EE72 /* parent_history.swift in Sources */,
-				209FC6252848D4BD004320A3 /* gradientview.swift in Sources */,
-				200E57EF284A006E00765647 /* scan.swift in Sources */,
-				204EDCE22865CC430024D934 /* BlogViewController.swift in Sources */,
-				2029AC9128855E3F0060B79F /* Kyc.swift in Sources */,
-				20C93B41288EAAC60028575F /* terms_view.swift in Sources */,
-				20ABC6162848CC4900082A72 /* SceneDelegate.swift in Sources */,
-				204AEBF628851FD5003030C7 /* Pg.swift in Sources */,
-				20A21F1D2851D68E004383EF /* settings.swift in Sources */,
-				205EF5F92860A0AE001D5708 /* settings_parent.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -615,25 +417,6 @@
 			targetProxy = 20ABC6342848CC4A00082A72 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		20ABC6192848CC4900082A72 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				20ABC61A2848CC4900082A72 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		20ABC6212848CC4A00082A72 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				20ABC6222848CC4A00082A72 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		20ABC63B2848CC4A00082A72 /* Debug */ = {
@@ -837,7 +620,6 @@
 		20ABC6412848CC4A00082A72 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -857,7 +639,6 @@
 		20ABC6422848CC4A00082A72 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
@@ -877,7 +658,6 @@
 		20ABC6442848CC4A00082A72 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QK2Y5JN4W9;
@@ -895,7 +675,6 @@
 		20ABC6452848CC4A00082A72 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = QK2Y5JN4W9;
@@ -950,19 +729,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		20ABC61C2848CC4900082A72 /* nbpl.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				20ABC61D2848CC4900082A72 /* nbpl.xcdatamodel */,
-			);
-			currentVersion = 20ABC61D2848CC4900082A72 /* nbpl.xcdatamodel */;
-			path = nbpl.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 20ABC6082848CC4900082A72 /* Project object */;
 }
